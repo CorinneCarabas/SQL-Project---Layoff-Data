@@ -7,7 +7,7 @@ Diving into the data surrounding global layoffs in 2020 through early 2023.
 
 Initial project using SQL
   
-	Uncovering insights into what countries, industries, and companies suffered the most layoffs during the turbulent economic time during the pandemic (this dataset includes data from 2020 - early 2023)
+   Uncovering insights into what countries, industries, and companies suffered the most layoffs during the turbulent economic time during the pandemic (this dataset includes data from 2020 - early 2023)
 
  Step 1: 
  Cleaning the data
