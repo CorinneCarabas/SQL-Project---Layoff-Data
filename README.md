@@ -21,6 +21,9 @@ Initial project using SQL
 4. Removed unnecessary rows or columns.
 	Finally, I deleted columns I created to identify dirty data and removed rows that contained no additional value for manipulation.
 
+[Cleaning SQL code file](https://github.com/CorinneCarabas/SQL-Project---Layoff-Data/blob/main/SQL%20Data%20Cleaning_Layoffs.sql)
+
+
 Step 2:
 Exploring the data
 	Researching, generating hypotheses, and uncovering insights.
@@ -28,3 +31,5 @@ Exploring the data
 2.  Querying on variables: highest layoffs by industry, country, year, etc. Confirmed hypothesis that USA-based companies reported the highest amount of layoffs.
 3.  Digging deeper: rolling total of all layoffs month-by-month. Confirmed the hypothesis that FY 2022 saw the highest number of layoffs. 
 4.  Uncovering: the top 5 (dense rank) companies per year that had the highest number of layoffs.
+
+[Exploration SQL code file](https://github.com/CorinneCarabas/SQL-Project---Layoff-Data/blob/main/SQL%20Data%20Exploration_Layoffs.sql)
